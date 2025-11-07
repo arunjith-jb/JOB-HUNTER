@@ -1,0 +1,6 @@
+id,company,title,location,description,skills
+1,Press Ganey,Data Analyst,Technopark,"Analyze datasets, build reports using Python, SQL, Excel, Power BI.","python,sql,excel,power bi,data analysis"
+2,Infosys,Software Developer,Bangalore,"Develop backend services in Java and Python, REST APIs, Git.","java,python,rest,git"
+3,TCS,Junior Data Analyst,Chennai,"Support ETL, dashboards in Power BI, data cleaning with SQL.","sql,power bi,excel,data cleaning"
+4,Wipro,ML Engineer,Bengaluru,"Build ML models using Python, scikit-learn, deep learning frameworks.","python,machine learning,scikit-learn,deep learning"
+5,Cognizant,React Developer,Hyderabad,"Frontend development using React, JavaScript, CSS, HTML.","react,javascript,css,html"
