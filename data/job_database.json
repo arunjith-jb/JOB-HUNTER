@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Data Analyst",
+    "company": "ABC Analytics",
+    "location": "Remote",
+    "experience_level": "Fresher",
+    "skills": ["excel", "sql", "python", "power bi"]
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "VisionAI",
+    "location": "Bangalore",
+    "experience_level": "Experienced",
+    "skills": ["python", "machine learning", "deep learning", "sql"]
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Insight Corp",
+    "location": "Chennai",
+    "experience_level": "Fresher",
+    "skills": ["excel", "sql", "communication", "power bi"]
+  },
+  {
+    "title": "Software Developer",
+    "company": "CodeWorks",
+    "location": "Hyderabad",
+    "experience_level": "Experienced",
+    "skills": ["python", "problem solving", "teamwork"]
+  }
+]
